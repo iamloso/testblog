@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:3;a:3:{s:4:"name";s:3:"git";s:2:"id";s:1:"2";s:5:"alias";s:0:"";}}
