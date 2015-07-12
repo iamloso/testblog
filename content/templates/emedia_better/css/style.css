@@ -35,7 +35,7 @@ em{ font-style:italic !important;} strike{ text-decoration:line-through !importa
 .search-fr{float:right;width:297px;padding-top:12px;}
 .header{ background:#fff; padding:20px 0 10px 0;}
 .seach_cha {float:left;	background:#fff url(../images/search_bg.jpg) no-repeat 5px center;border:none;height:31px;padding:5px;line-height:31px; border:1px solid #ddd;padding-left:35px; width:195px;	color:#999;font-family:"微软雅黑", "黑体", Arial;}
-.seach_dian {float:right;width:60px;height:43px;background:#00AA98;border:none;padding:0px;cursor:pointer; color:#fff; font-family:"微软雅黑", "黑体", Arial; font-size:18px;}
+.seach_dian {float:right;width:60px;height:43px;background:#00AA98;border:none;padding:0px;cursor:pointer; color:#fff; font-family:"微软雅黑", "黑体", Arial; font-size:18px;position:absolute;}
 .seach_dian:hover{opacity:0.8;filter:alpha(opacity=80);}
 .navbar{ height:46px; background:#333;}
 .pull-left{ width:950px; float:left; height:46px; line-height:46px;} 
