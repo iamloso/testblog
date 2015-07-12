@@ -1,1 +1,1 @@
-<?php exit;//a:3:{i:0;a:2:{s:3:"gid";i:3;s:5:"title";s:15:"第一篇文章";}i:1;a:2:{s:3:"gid";i:2;s:5:"title";s:8:"testtest";}i:2;a:2:{s:3:"gid";i:1;s:5:"title";s:17:"欢迎使用emlog";}}
+<?php exit;//a:5:{i:0;a:2:{s:3:"gid";i:15;s:5:"title";s:41:"ubuntu 下 phpstorm 26 个实用快捷键";}i:1;a:2:{s:3:"gid";i:14;s:5:"title";s:47:"nginx 414 Request-URI Too Large， 解决方式";}i:2;a:2:{s:3:"gid";i:13;s:5:"title";s:24:"mysql 数据基本操作";}i:3;a:2:{s:3:"gid";i:12;s:5:"title";s:18:"mysql 数据过滤";}i:4;a:2:{s:3:"gid";i:11;s:5:"title";s:24:"linux shell 常用命令";}}
