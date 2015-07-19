@@ -35,7 +35,7 @@ if(function_exists('emLoadJQuery')) {
 <div class="topBar">
   <div class="wrapper">
     <div class="t-fl"><?php echo $bloginfo; ?></div>
-    <div class="t-fr"><?php if(ROLE == 'admin' || ROLE == 'writer'): ?><a href="<?php echo BLOG_URL; ?>admin/">管理</a><a href="<?php echo BLOG_URL; ?>admin/?action=logout">退出</a><?php else: ?><a href="<?php echo BLOG_URL; ?>admin/">登录</a><?php endif; ?><a href="<?php echo BLOG_URL; ?>m/">简洁手机版</a><a href="<?php echo BLOG_URL; ?>rss.php" target="_blank">RSS</a></div>
+    <div class="t-fr"><?php if(ROLE == 'admin' || ROLE == 'writer'): ?><a href="<?php echo BLOG_URL; ?>admin/">管理</a><a href="<?php echo BLOG_URL; ?>admin/?action=logout">退出</a><?php else: ?><a href="<?php echo BLOG_URL; ?>admin/"></a><?php endif; ?><a href="<?php echo BLOG_URL; ?>m/">简洁手机版</a><a href="<?php echo BLOG_URL; ?>rss.php" target="_blank">RSS</a></div>
   </div>
 </div>
 <!--topBar end-->
